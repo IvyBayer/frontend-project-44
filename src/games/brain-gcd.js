@@ -3,7 +3,9 @@ import games from '../index.js';
 
 const brainGcdGames = () => {
   const rules = 'Find the greatest common divisor of given numbers.';
-  const nod = (number1, number2) => {
+  const nod = (randomNumber1, rangomNumber2) => {
+    let number1 = randomNumber1;
+    let number2 = rangomNumber2;
     if (number2 > number1) {
       const temp = number1;
       number1 = number2;

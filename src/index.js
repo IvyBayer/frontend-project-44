@@ -1,4 +1,3 @@
-import _ from 'lodash';
 import readlineSync from 'readline-sync';
 import userName, { name } from './cli.js';
 
@@ -6,7 +5,7 @@ const brainGames = (rules, round) => {
   console.log(userName());
   console.log(rules);
   const numberOfRounds = 3;
-  for (let i = 0; i < numberOfRounds; i++) {
+  for (let i = 0; i < numberOfRounds; i += 1) {
     const [question, rightAnswer] = round();
     console.log(`Question: ${question}`);
     const userAnswer = readlineSync.question('Your answer: ');
