@@ -18,7 +18,7 @@ const brainCalcGames = () => {
             randomExpressionForQuestion = `${getrandomNumber1} * ${getrandomNumber2}`;
             randomExpression = getrandomNumber1 * getrandomNumber2;
         }
-        return [randomExpressionForQuestion, randomExpression];
+        return [randomExpressionForQuestion.toString(), randomExpression.toString()];
     }
     games(rules, round);
 }

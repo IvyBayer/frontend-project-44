@@ -25,7 +25,7 @@ const brainGcdGames = () => {
         const getrandomNumber2 = _.random(1, 100);
         const getrandomNumber = `${getrandomNumber1} ${getrandomNumber2}`;
         const answer = nod(getrandomNumber1, getrandomNumber2);
-        return [getrandomNumber, answer]
+        return [getrandomNumber.toString(), answer.toString()]
     }
     games(rules, round);
 }

@@ -10,8 +10,8 @@ const brainGames = (rules, round) => {
     for (let i = 0; i < numberOfRounds; i++) {
         const [question, rightAnswer] = round();
         console.log(`Question: ${question}`)
-        const userAnswer = parseInt(readlineSync.question('Your answer: '));
-
+        const userAnswer = readlineSync.question('Your answer: ');
+// parseInt(readlineSync.question('Your answer: '));
         if (rightAnswer === userAnswer) {
             console.log('Correct!');
           } else {

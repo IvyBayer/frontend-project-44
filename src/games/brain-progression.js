@@ -20,7 +20,7 @@ const brainProgressionGames = () => {
         const randomNumberForStepOfProgression = _.random(1, 10);
         const question = progression(getrandomNumber1, randomNumberForStepOfProgression, randomNumberForProgressionLine, randomNumberForMissingNumber);
 
-        return [question, missingNumberSave];
+        return [question.toString(), missingNumberSave.toString()];
     }
     games(rules, round);
 }
