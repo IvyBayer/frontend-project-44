@@ -34,8 +34,8 @@ Question: ${progression(getrandomNumber1, randomNumberForStepOfProgression, rand
     if (missingNumberSave === userAnswer) {
       console.log('Correct!');
     } else {
-      console.log(`${userAnswer} is wrong answer ;(. Correct answer was ${missingNumberSave}.
-Let's try again, ${name}!`);
+      console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was ${missingNumberSave}.
+Let's try again, '${name}!'`);
       break;
     }
     if (i === 2) {
