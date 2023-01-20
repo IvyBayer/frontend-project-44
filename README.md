@@ -3,7 +3,7 @@
 ###### Сайт https://codeclimate.com/ выдает ошибку и не хочет добавлять репозиторий
 
 ### Run brain-calc
-https://asciinema.org/a/FrVVFTIKn6CVEqXLXmPwqQFgR
+<script id="asciicast-FrVVFTIKn6CVEqXLXmPwqQFgR" src="https://asciinema.org/a/FrVVFTIKn6CVEqXLXmPwqQFgR.js" async></script>
 
 ### Run brain-even
 https://asciinema.org/a/sBBxJrvCFCovB2Cb2igqF8idE
