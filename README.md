@@ -3,13 +3,13 @@
 ###### Сайт https://codeclimate.com/ выдает ошибку и не хочет добавлять репозиторий
 
 ### Run brain-calc
-https://asciinema.org/connect/3c7d4d78-db7e-4c6c-b3ad-ee3387f87048
+https://asciinema.org/a/FrVVFTIKn6CVEqXLXmPwqQFgR
 
 ### Run brain-even
-https://asciinema.org/connect/3c7d4d78-db7e-4c6c-b3ad-ee3387f87048
+https://asciinema.org/a/sBBxJrvCFCovB2Cb2igqF8idE
 
 ### Run brain-gcd
-https://asciinema.org/connect/3c7d4d78-db7e-4c6c-b3ad-ee3387f87048
+https://asciinema.org/a/SnrlfQSVK3jiAWk1vuyVuO4ml
 
 ### Run brain-progression
-https://asciinema.org/connect/3c7d4d78-db7e-4c6c-b3ad-ee3387f87048
+https://asciinema.org/a/amoWRSStIosgZ7hOcPuco7eOB
