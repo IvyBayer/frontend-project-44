@@ -7,10 +7,10 @@
 [![asciicast](https://asciinema.org/a/FrVVFTIKn6CVEqXLXmPwqQFgR.svg)](https://asciinema.org/a/FrVVFTIKn6CVEqXLXmPwqQFgR)
 
 ### Run brain-even
-https://asciinema.org/a/sBBxJrvCFCovB2Cb2igqF8idE
+[![asciicast](https://asciinema.org/a/sBBxJrvCFCovB2Cb2igqF8idE.svg)](https://asciinema.org/a/sBBxJrvCFCovB2Cb2igqF8idE)
 
 ### Run brain-gcd
-https://asciinema.org/a/SnrlfQSVK3jiAWk1vuyVuO4ml
+[![asciicast](https://asciinema.org/a/SnrlfQSVK3jiAWk1vuyVuO4ml.svg)](https://asciinema.org/a/SnrlfQSVK3jiAWk1vuyVuO4ml)
 
 ### Run brain-progression
-https://asciinema.org/a/amoWRSStIosgZ7hOcPuco7eOB
+[![asciicast](https://asciinema.org/a/amoWRSStIosgZ7hOcPuco7eOB.svg)](https://asciinema.org/a/amoWRSStIosgZ7hOcPuco7eOB)
